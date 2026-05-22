@@ -145,17 +145,6 @@ python train_pad_gemb_ar_eval.py --train_config_path <SAVING_DIR>/train_adapt_gp
   * Model architecture comparison
 
 ---
-
-## Data Availability
-
-* Pre-trained models:
-  👉 [https://drive.google.com/drive/folders/1ddMW1iLYlhd_Nb-ZyRFY1ktdZ9tDlNjQ](https://drive.google.com/drive/folders/1ddMW1iLYlhd_Nb-ZyRFY1ktdZ9tDlNjQ)
-
-Notes:
-
-* No precomputed embedding datasets are provided
-* Users are encouraged to generate embeddings independently
-
 ⚠️ Important:
 
 * `adapt_maxcut_run_multithread.sh` does **not filter low AR circuits**
